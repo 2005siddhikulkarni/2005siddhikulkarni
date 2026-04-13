@@ -6,7 +6,7 @@
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **siddhikulkarni200@gmail.com**
 - 😄 Pronouns: She/her
-siddhi
+
 ## About Me
 I'm Siddhi Kulkarni, a passionate and dedicated engineering student with a strong interest in Python, Machine Learning, Deep Learning, and Generative AI. I enjoy building intelligent systems that solve real-world problems and enhance automation.
 
