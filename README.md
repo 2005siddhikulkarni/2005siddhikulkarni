@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=2005siddhikulkarni&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Deep Lerning**
@@ -6,6 +6,9 @@
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **siddhikulkarni200@gmail.com**
 - 😄 Pronouns: She/her
+
+## About Me
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddhi-kulkarni-8580372a7) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Siddhi Kulkarni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhikulkarni200@gmail.com) 
