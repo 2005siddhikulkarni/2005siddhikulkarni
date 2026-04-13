@@ -6,7 +6,7 @@
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **siddhikulkarni200@gmail.com**
 - 😄 Pronouns: She/her
-
+siddhi
 ## About Me
 
 
@@ -19,13 +19,13 @@
 # 📊 GitHub Stats:
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaib204&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2005siddhikulkarni&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaib204&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2005siddhikulkarni&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaib204&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2005siddhikulkarni&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🔝 Top Contributed Repo
