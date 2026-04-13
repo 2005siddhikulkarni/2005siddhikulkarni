@@ -29,10 +29,4 @@ I'm Siddhi Kulkarni, a passionate and dedicated engineering student with a stron
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2005siddhikulkarni&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=2005siddhikulkarni&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=2005siddhikulkarni&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
