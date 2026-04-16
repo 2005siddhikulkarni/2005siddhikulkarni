@@ -1,7 +1,7 @@
 ## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=2005siddhikulkarni&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **Deep Lerning**
+- 🌱 I’m currently learning **Deep Learning**
 - 👯 I’m looking to collaborate on **Python, Machine Learning, Deep Learning, Gen Ai and projects**
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **siddhikulkarni200@gmail.com**
